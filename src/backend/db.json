@@ -1,0 +1,44 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Monitor 27' 4K",
+            "descricao": "Monitor 4K de 27 polegadas com alta taxa de atualização.",
+            "preco": 1799.99,
+            "categoria": "Monitor",
+            "estoque": 20
+        },
+        {
+            "id": 2,
+            "nome": "Placa de Vídeo NVIDIA RTX 3080",
+            "descricao": "Placa de vídeo potente para jogos e edição de vídeos em 4K.",
+            "preco": 4899.99,
+            "categoria": "Placa de Vídeo",
+            "estoque": 15
+        },
+        {
+            "id": 3,
+            "nome": "Processador Intel i7 10700K",
+            "descricao": "Processador Intel i7 10700K com 8 núcleos e 16 threads.",
+            "preco": 2999.99,
+            "categoria": "Processador",
+            "estoque": 30
+        },
+        {
+            "id": 4,
+            "nome": "Memória RAM Corsair Vengeance 16GB DDR4",
+            "descricao": "Kit de memória RAM Corsair Vengeance de 16GB para alto desempenho.",
+            "preco": 599.99,
+            "categoria": "Memória RAM",
+            "estoque": 50
+        },
+        {
+            "id": 5,
+            "nome": "HD SSD Samsung 1TB",
+            "descricao": "SSD Samsung de 1TB com velocidade de leitura e escrita de até 3500MB/s.",
+            "preco": 899.99,
+            "categoria": "Armazenamento",
+            "estoque": 40
+        }
+    ]
+}
